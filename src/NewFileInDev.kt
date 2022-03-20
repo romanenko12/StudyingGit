@@ -1,5 +1,7 @@
 class NewFileInDev {
 
     //file created be "dev" branch
-    //println("New code from \"dev\" branch")
+    fun feature() {
+        println("New code from \"dev\" branch")
+    }
 }
