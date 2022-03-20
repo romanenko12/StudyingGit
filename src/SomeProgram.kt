@@ -1,4 +1,4 @@
 fun main() {
     println("Some code...")
-    println("More some code...")
+    println("More some corrected code...")
 }
